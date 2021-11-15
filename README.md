@@ -3,7 +3,7 @@
 ## I'm a student, developer and gamer!
 - I'm currently working in Lello Condominios
 - My main language is Java
-- My goal is to become a reliable fullstack dev.
+- My goal is to become a reliable dev.
 - Hobbies: anime and games.
 
 
