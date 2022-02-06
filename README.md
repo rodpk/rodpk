@@ -5,7 +5,7 @@
 - My main language is Java
 - Hobbies: anime and games.
 
-- I push a lot of useless stuff and tests so don't mind it
+- I commit a lot of useless stuff and tests so don't mind it
 
 ### Social Media:
 [LinkedIn]
