@@ -1,10 +1,11 @@
 ### Hi there, I'm Rodrigo Pinheiro - aka [rodpk]👋
 
 ## I'm a student, developer and gamer!
-- I'm currently working in Lello Condominios, developing APIs in Java with JAX-RS 
+- I'm currently working at Lello Condominios, developing APIs in Java with JAX-RS 
 - My main language is Java
 - Hobbies: anime and games.
 
+- I push a lot of useless stuff and tests so don't mind it
 
 ### Social Media:
 [LinkedIn]
