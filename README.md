@@ -11,6 +11,10 @@
 ### Social Media:
 [LinkedIn]
 
+
+
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodpk&theme=radical"/>
+
 ### Languages and Tools:
 
 - Java
