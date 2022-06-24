@@ -13,8 +13,9 @@
 
 
 
-<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodpk&theme=radical"/>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodpk&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rodpk&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rodpk&theme=monokai)
 ### Languages and Tools:
 
 - Java
