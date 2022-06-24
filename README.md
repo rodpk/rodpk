@@ -22,6 +22,8 @@
 - SQL [MySQL, PostgreSQL, Oracle]
 - Git [Github, Gitlab]
 
+
+<div style="display: inline_block" align="center"><br>
  <img align="center" alt="java-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/> 
  <img align="center" alt="spring-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height="50"/> 
  <img align="center" alt="mysql-logo" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" width="50" height="40"/>
@@ -29,7 +31,8 @@
  <img align="center" alt="vscode-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="40" height="30" />
  <img align="center" alt="html-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="30" />
  <img align="center" alt="css-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="30" />
- 
+ </div>
+ ##
 <br />
 <br />
 
