@@ -1,7 +1,7 @@
 ### Hi there, I'm Rodrigo Pinheiro - aka [rodpk]👋🇧🇷
 
 ## I'm a student, developer and gamer!
-- I'm currently working at Lello Condominios, developing APIs in Java with JAX-RS 
+- I'm currently working at CI&T 
 - My main language is Java.
 - Studying Spring and other tools like Kafka, RabbitMQ and Docker
 - Hobbies: anime and games.
