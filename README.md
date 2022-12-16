@@ -2,19 +2,18 @@
 
 ## I'm a student, developer and gamer!
 - I'm currently working at CI&T 
-- My main language is Java.
-- Studying Spring and other tools like Kafka, RabbitMQ and Docker
 - Hobbies: anime and games.
 
 - I commit a lot of useless stuff and tests so don't mind it
 ##
 ### Languages and Tools:
 - Java      
-- HTML
-- CSS
+- Golang
+- Python
+- Typescript
+- Angular
 - Javascript
 - SQL [MySQL, PostgreSQL, Oracle]
-- Git [Github, Gitlab]
 
 ### Social Media:
 [LinkedIn]
