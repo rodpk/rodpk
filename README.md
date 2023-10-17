@@ -12,8 +12,8 @@
 - Terraform
 
 ### Social Media:
-[LinkedIn]
-
+Linkedin: [LinkedIn]
+Discord: yahata
 
 ##
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodpk&theme=dracula)
