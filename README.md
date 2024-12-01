@@ -1,4 +1,5 @@
-### Hi there, I'm Rodrigo Pinheiro - aka [rodpk]👋🇧🇷
+<h1 align="center">Hi 👋, I'm Rodrigo</h1>
+<h3 align="center">Software Engineer at Ci&T</h3>
 
 ##
 ### Languages and Tools:
@@ -16,10 +17,8 @@ Linkedin: [LinkedIn]
 Discord: yahata
 
 ##
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodpk&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rodpk&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rodpk&theme=dracula)
-![Rodpk's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodpk&show_icons=true&theme=dracula&hide_border=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodpk&show_icons=true&locale=en&layout=compact" alt="rodpk" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodpk&show_icons=true&locale=en" alt="rodpk" /></p>
 ##
 
 
