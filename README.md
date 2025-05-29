@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Rodrigo</h1>
 <h3 align="center">Software Engineer at Ci&T</h3>
 
 <p align="left">
